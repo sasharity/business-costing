@@ -1,0 +1,13 @@
+Product: Vanilla Cake
+Units produced: 10
+Materials cost: ₦10,000.00
+Labour cost: ₦30,000.00
+Packaging cost: ₦5,000.00
+Other expenses: ₦2,000.00
+Total production cost: ₦47,000.00
+Cost per unit: ₦4,700.00
+Profit margin: 50.0%
+Selling price per unit: ₦9,400.00
+Estimated batch profit: ₦47,000.00
+----------------------------------------
+
