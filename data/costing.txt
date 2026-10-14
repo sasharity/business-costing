@@ -11,3 +11,16 @@ Selling price per unit: ₦9,400.00
 Estimated batch profit: ₦47,000.00
 ----------------------------------------
 
+Product: Vanilla cake
+Units produced: 10
+Materials cost: ₦50,000.00
+Labour cost: ₦10,000.00
+Packaging cost: ₦5,000.00
+Other expenses: ₦10,000.00
+Total production cost: ₦75,000.00
+Cost per unit: ₦7,500.00
+Profit margin: 30.0%
+Selling price per unit: ₦10,714.29
+Estimated batch profit: ₦32,142.86
+----------------------------------------
+
